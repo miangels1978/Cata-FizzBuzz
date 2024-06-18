@@ -1,4 +1,4 @@
-# Cata-FizzBuzz
+# Kata-FizzBuzz
 
 ## Kata of Texting
 <hr>
