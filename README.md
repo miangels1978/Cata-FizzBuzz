@@ -1,7 +1,16 @@
 # Cata-FizzBuzz
 
 ## Kata of Texting
+<hr>
+<br>
 
+### Description
+ Program that prints a line for each number from 1 to 100:
+- Usually just print the number itself.
+- For multiples of three, print Fizz instead of the number
+- For multiples of five print Buzzen instead of the number
+- For numbers that are multiples of three and five, print FizzBuzz instead of the number.
+- 
 ### Development
 Main:
 - Defines an object of the Class called Fizzbuzz.
